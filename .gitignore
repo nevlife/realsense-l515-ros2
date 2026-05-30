@@ -1,0 +1,17 @@
+# Android wrapper build cache
+**/.gradle/
+
+# Python
+__pycache__/
+*.pyc
+
+# colcon / ROS2 workspace artifacts (if ever generated at repo root)
+/build/
+/install/
+/log/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
